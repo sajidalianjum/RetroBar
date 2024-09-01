@@ -1,4 +1,7 @@
 ﻿![alt text](https://raw.githubusercontent.com/dremin/retrobar/master/retrobar-preview.png "RetroBar")
+# My Fork
+
+This fork aims to implement focus-related changes. Specifically, it ensures that when an application is minimized or closed, the focus automatically shifts to the next application in the foreground. Please note that the current implementation is a workaround and may not be the most elegant solution.
 
 # RetroBar
 [![Current release](https://img.shields.io/github/v/release/dremin/RetroBar)](https://github.com/dremin/RetroBar/releases/latest) ![Build status](https://github.com/dremin/RetroBar/workflows/RetroBar/badge.svg)
